@@ -1,4 +1,7 @@
+"""
+    Take a dataset and perform to remove inconsistent data from  (data cleaning process)
 
+"""
 def is_missing(value):
     return value == '' or value is None
 

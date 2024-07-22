@@ -1,3 +1,6 @@
+"""
+    Download diabetes dataset .using bayesian network find if the person is affected by diabetes or not
+"""
 import csv
 
 def load_dataset(file_path):

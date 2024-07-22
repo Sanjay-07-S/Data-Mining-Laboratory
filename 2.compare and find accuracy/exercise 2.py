@@ -1,3 +1,8 @@
+""" Take original dataset as dataset 1 and remove some data from dataset 1 and take that as dataset 2.
+        now using any methods find the missing values and compare both dataset and print the accuracy
+  """
+
+
 import pandas as pd
 from sklearn.metrics import accuracy_score
 
