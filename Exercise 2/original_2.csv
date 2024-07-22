@@ -1,0 +1,1001 @@
+GameID,Title,Platform,Year,Genre,Publisher,Global_Sales
+1,Overwatch,PC,2008,Simulation,Microsoft,0.79
+2,Ghost of Tsushima,PC,2013,Simulation,Square Enix,14.51
+3,Minecraft,PC,2010,Action,CD Projekt,26.17
+4,FIFA 21,PS4,2005,Shooter,CD Projekt,10.35
+5,PUBG,Switch,2006,Shooter,Ubisoft,11.3
+6,League of Legends,PS5,2009,Action,EA,10.82
+7,Hades,PC,2020,Simulation,Microsoft,25.35
+8,The Witcher 3,PS5,2006,Adventure,Microsoft,22.23
+9,Animal Crossing,Switch,2016,Adventure,Microsoft,24.01
+10,Animal Crossing,PS4,2021,RPG,Epic Games,14.77
+11,Hades,Switch,2006,Sports,Ubisoft,1.67
+12,League of Legends,Xbox One,2020,Simulation,Sony,4.56
+13,Grand Theft Auto V,PC,2021,Simulation,Nintendo,2.09
+14,The Legend of Zelda,Xbox One,2017,Simulation,CD Projekt,11
+15,League of Legends,Xbox One,2019,RPG,Ubisoft,17.24
+16,Hades,PS5,2011,Adventure,Ubisoft,10.05
+17,Valorant,PC,2009,RPG,Nintendo,29.74
+18,Among Us,Switch,2014,Sports,Epic Games,9.5
+19,FIFA 21,PS5,2007,Action,Activision,7.14
+20,Call of Duty,PC,2014,Sports,Epic Games,6.97
+21,The Witcher 3,PS5,2021,Action,Square Enix,27.58
+22,Apex Legends,PS4,2006,RPG,Activision,0.22
+23,Valorant,PS4,2003,Action,Ubisoft,9.66
+24,Super Mario Odyssey,Xbox One,2012,Adventure,CD Projekt,14.9
+25,Overwatch,PS4,2015,RPG,Bethesda,22.51
+26,Overwatch,PC,2022,Simulation,EA,20.31
+27,Valorant,Xbox One,2006,Sports,Epic Games,28.68
+28,Hades,PS4,2010,RPG,Sony,19.51
+29,League of Legends,Switch,2016,Action,Epic Games,19.91
+30,Super Mario Odyssey,Switch,2007,RPG,Sony,3.49
+31,Ghost of Tsushima,PC,2002,RPG,CD Projekt,13.66
+32,Cyberpunk 2077,PC,2006,Sports,Sony,15.58
+33,Grand Theft Auto V,Switch,2014,Sports,Square Enix,17.79
+34,The Legend of Zelda,PS5,2000,Simulation,Ubisoft,19.13
+35,Fortnite,PC,2016,Action,Nintendo,20.09
+36,Call of Duty,PS5,2022,Adventure,Nintendo,0.5
+37,Assassin's Creed Valhalla,PC,2011,Adventure,Ubisoft,8.38
+38,Overwatch,Switch,2018,Simulation,Microsoft,10.14
+39,Valorant,Switch,2006,Shooter,EA,8.32
+40,PUBG,Xbox One,2009,Sports,Square Enix,4.47
+41,The Witcher 3,PS4,2002,Adventure,Square Enix,2.67
+42,Apex Legends,PC,2021,Sports,EA,17.01
+43,Overwatch,PC,2013,Action,EA,5.24
+44,Ghost of Tsushima,PS5,2001,RPG,Epic Games,8.79
+45,The Witcher 3,Xbox One,2010,Shooter,Microsoft,4.88
+46,Cyberpunk 2077,PS4,2007,Shooter,Ubisoft,28.08
+47,Ghost of Tsushima,Switch,2018,Sports,EA,0.19
+48,Red Dead Redemption 2,PS5,2017,Action,CD Projekt,8.81
+49,Animal Crossing,Xbox One,2017,Action,EA,25.09
+50,Valorant,Switch,2004,Action,Sony,21.72
+51,The Legend of Zelda,Switch,2013,Simulation,EA,11.6
+52,Animal Crossing,Switch,2018,Adventure,EA,2.02
+53,Fortnite,Switch,2020,Simulation,Nintendo,27.59
+54,Valorant,PS5,2012,Sports,Sony,21.27
+55,The Legend of Zelda,Switch,2010,Adventure,Epic Games,8.32
+56,Ghost of Tsushima,PC,2010,Sports,CD Projekt,13.06
+57,Red Dead Redemption 2,Xbox One,2019,Action,Ubisoft,12.71
+58,Valorant,PS5,2012,Simulation,CD Projekt,20.18
+59,Red Dead Redemption 2,Xbox One,2004,Adventure,Nintendo,1.52
+60,Apex Legends,PS4,2009,Shooter,Nintendo,20.23
+61,Red Dead Redemption 2,PS4,2001,Sports,Square Enix,22.28
+62,Overwatch,PS4,2009,Action,Bethesda,3.88
+63,Grand Theft Auto V,PS5,2002,Adventure,Epic Games,18.65
+64,The Legend of Zelda,PC,2007,Adventure,CD Projekt,10.16
+65,Cyberpunk 2077,PS5,2018,Adventure,Bethesda,6.78
+66,Among Us,Xbox One,2016,RPG,Square Enix,27.8
+67,Call of Duty,PS4,2007,Adventure,CD Projekt,19
+68,Minecraft,PC,2009,Action,EA,2.46
+69,Call of Duty,PS4,2021,RPG,Activision,11.69
+70,The Witcher 3,PC,2012,Shooter,EA,17.73
+71,Ghost of Tsushima,Xbox One,2004,RPG,Nintendo,7.47
+72,Overwatch,PC,2003,Simulation,Square Enix,8.81
+73,FIFA 21,PS5,2001,Simulation,Square Enix,5.4
+74,Overwatch,PS5,2010,Shooter,Epic Games,0.72
+75,Cyberpunk 2077,PC,2013,Adventure,Bethesda,6.66
+76,Overwatch,PS5,2002,Simulation,EA,25.69
+77,Super Mario Odyssey,Xbox One,2003,RPG,Bethesda,4.37
+78,Among Us,PS4,2000,Simulation,EA,26.84
+79,Minecraft,PS5,2019,Simulation,EA,0.63
+80,FIFA 21,PS4,2016,Adventure,Ubisoft,11.61
+81,The Legend of Zelda,PS4,2000,Action,Square Enix,16.56
+82,Call of Duty,Xbox One,2001,Action,Epic Games,18.77
+83,Animal Crossing,Xbox One,2014,Shooter,Bethesda,6.81
+84,Animal Crossing,PS5,2012,Action,Sony,11.34
+85,Among Us,Switch,2010,RPG,Activision,11.35
+86,Among Us,PS4,2019,Adventure,EA,6.49
+87,Overwatch,PC,2019,Adventure,Sony,15.84
+88,PUBG,Switch,2016,RPG,Activision,26.24
+89,Cyberpunk 2077,Xbox One,2005,Action,Microsoft,8.57
+90,Call of Duty,PC,2004,Action,EA,13.36
+91,Apex Legends,Xbox One,2004,RPG,Activision,29.09
+92,Animal Crossing,Xbox One,2020,Shooter,EA,21.87
+93,Valorant,PS5,2005,Sports,Activision,5.02
+94,Valorant,PC,2005,Sports,Microsoft,12.79
+95,Red Dead Redemption 2,Xbox One,2004,Sports,Square Enix,28.43
+96,Call of Duty,PC,2012,Action,Sony,18.32
+97,Among Us,Xbox One,2009,Sports,Sony,17.87
+98,Overwatch,PS5,2009,Action,Sony,26.77
+99,Minecraft,PS5,2002,Adventure,Ubisoft,2.93
+100,Hades,PC,2014,Sports,Epic Games,7.9
+101,Hades,PS5,2008,Sports,Bethesda,12.18
+102,PUBG,PS4,2006,Shooter,CD Projekt,24.37
+103,The Legend of Zelda,Xbox One,2006,RPG,Nintendo,26.96
+104,League of Legends,Switch,2017,Action,Activision,8.66
+105,Among Us,PS4,2016,Shooter,Activision,8.88
+106,PUBG,PS4,2002,Adventure,Nintendo,29.99
+107,Valorant,Switch,2018,Adventure,Bethesda,3.27
+108,Valorant,Xbox One,2020,RPG,Activision,23.2
+109,Valorant,Switch,2021,Simulation,Nintendo,8.4
+110,Cyberpunk 2077,PC,2002,Action,Ubisoft,6.49
+111,FIFA 21,Switch,2012,Sports,Ubisoft,21.75
+112,PUBG,PS5,2010,Action,Activision,12.91
+113,League of Legends,PS4,2007,RPG,CD Projekt,19.49
+114,Hades,PS4,2020,Adventure,CD Projekt,21.3
+115,The Witcher 3,Xbox One,2019,Action,Nintendo,19.16
+116,Super Mario Odyssey,PC,2002,Simulation,Sony,29.41
+117,Super Mario Odyssey,PS4,2020,Adventure,Microsoft,16.18
+118,The Legend of Zelda,Xbox One,2019,Action,Nintendo,29.92
+119,Fortnite,PS4,2009,Action,Ubisoft,24.83
+120,Fortnite,PC,2013,Simulation,Ubisoft,24.01
+121,Minecraft,Xbox One,2011,Adventure,Microsoft,19.81
+122,Fortnite,PS5,2015,Shooter,Square Enix,28.77
+123,Red Dead Redemption 2,PS4,2022,RPG,Activision,18.66
+124,Super Mario Odyssey,Switch,2000,Sports,Square Enix,25.51
+125,Animal Crossing,PS4,2000,Adventure,Bethesda,17.6
+126,Valorant,Xbox One,2013,Action,Epic Games,27.09
+127,The Witcher 3,PS5,2020,Shooter,EA,5.99
+128,PUBG,Switch,2015,Adventure,Epic Games,28.23
+129,Cyberpunk 2077,PC,2011,RPG,Nintendo,6.14
+130,Valorant,PS5,2007,Sports,Ubisoft,1.87
+131,PUBG,PS5,2000,Sports,EA,24.13
+132,The Witcher 3,PS5,2008,Adventure,Bethesda,17.19
+133,PUBG,Switch,2010,Simulation,Activision,27.44
+134,PUBG,Xbox One,2022,Sports,Nintendo,17.61
+135,Grand Theft Auto V,PS5,2022,Action,Nintendo,19.42
+136,Hades,Switch,2020,Shooter,CD Projekt,10.19
+137,Call of Duty,PS4,2005,RPG,Activision,12.99
+138,Fortnite,PC,2014,Shooter,Ubisoft,27.2
+139,Minecraft,PC,2017,Shooter,Activision,21.24
+140,Red Dead Redemption 2,PC,2005,Action,Nintendo,27.03
+141,Cyberpunk 2077,PS5,2021,Simulation,CD Projekt,23.43
+142,Cyberpunk 2077,Switch,2002,Simulation,Microsoft,7.93
+143,Call of Duty,PC,2001,RPG,Activision,23.85
+144,Animal Crossing,Xbox One,2008,Simulation,Activision,27.21
+145,Ghost of Tsushima,PC,2006,RPG,Activision,27.81
+146,FIFA 21,PS4,2014,Shooter,Activision,20.06
+147,Minecraft,PC,2005,Action,Sony,29.01
+148,FIFA 21,PC,2002,Adventure,Microsoft,29.66
+149,Valorant,PS4,2000,Shooter,Square Enix,19.14
+150,Ghost of Tsushima,PS5,2019,Shooter,Sony,24.39
+151,Animal Crossing,PC,2019,RPG,Microsoft,27.73
+152,Call of Duty,PS4,2004,Shooter,Ubisoft,26.75
+153,Minecraft,Xbox One,2008,Shooter,Epic Games,19.6
+154,Animal Crossing,Switch,2022,RPG,CD Projekt,17.56
+155,Assassin's Creed Valhalla,Xbox One,2014,Sports,Microsoft,16.54
+156,Animal Crossing,PS4,2013,Sports,Square Enix,18.43
+157,Super Mario Odyssey,PS4,2006,Sports,Activision,16.69
+158,Valorant,Xbox One,2004,Simulation,Ubisoft,22.01
+159,Among Us,PC,2007,RPG,Nintendo,15
+160,Fortnite,PS4,2015,Action,Bethesda,16.73
+161,Assassin's Creed Valhalla,PC,2014,Shooter,Square Enix,8.42
+162,League of Legends,PC,2013,Action,Ubisoft,22.69
+163,Cyberpunk 2077,PS5,2011,Adventure,Bethesda,2.81
+164,The Witcher 3,Switch,2009,Action,Sony,20.64
+165,The Witcher 3,Switch,2001,Sports,Square Enix,10.55
+166,Minecraft,PS5,2001,RPG,Activision,15.9
+167,Fortnite,PS4,2001,Action,Nintendo,12.92
+168,Assassin's Creed Valhalla,Xbox One,2000,Simulation,Bethesda,2.39
+169,Animal Crossing,PS5,2013,Shooter,Square Enix,15.77
+170,Assassin's Creed Valhalla,PS4,2011,Adventure,EA,28.35
+171,Red Dead Redemption 2,PC,2015,RPG,Ubisoft,16.74
+172,FIFA 21,Switch,2016,Adventure,Activision,13.35
+173,League of Legends,PS5,2010,Shooter,Activision,24.62
+174,Assassin's Creed Valhalla,PS4,2001,RPG,CD Projekt,27.97
+175,FIFA 21,Switch,2004,RPG,Bethesda,2.33
+176,Fortnite,PS5,2022,Simulation,Epic Games,21.94
+177,Valorant,Xbox One,2006,Adventure,Nintendo,23.04
+178,Grand Theft Auto V,Switch,2009,Action,Activision,4.8
+179,Valorant,PS4,2004,Shooter,Activision,6.49
+180,Hades,PS4,2012,Adventure,CD Projekt,18.46
+181,Minecraft,PS5,2006,Sports,Microsoft,4.59
+182,Super Mario Odyssey,PS4,2015,Shooter,Sony,25.63
+183,Valorant,Xbox One,2004,Action,CD Projekt,20.69
+184,FIFA 21,Xbox One,2015,Simulation,Bethesda,20.61
+185,Animal Crossing,Xbox One,2017,Simulation,Nintendo,4.47
+186,Overwatch,PC,2000,RPG,Microsoft,16.47
+187,Overwatch,PC,2020,Action,Microsoft,12.86
+188,Overwatch,PS5,2008,Simulation,Square Enix,3.33
+189,Grand Theft Auto V,PC,2000,Adventure,Bethesda,17.69
+190,Call of Duty,PS5,2012,Shooter,Activision,2.78
+191,Call of Duty,Switch,2010,Sports,Square Enix,20.62
+192,Ghost of Tsushima,Switch,2010,Adventure,EA,22.23
+193,Red Dead Redemption 2,Xbox One,2007,Simulation,Ubisoft,8.23
+194,Ghost of Tsushima,PC,2012,RPG,Sony,16.87
+195,Ghost of Tsushima,PS4,2003,RPG,Microsoft,17.1
+196,Valorant,PC,2007,Shooter,Epic Games,28.66
+197,Cyberpunk 2077,PC,2014,RPG,Bethesda,17.37
+198,The Witcher 3,PS4,2003,RPG,Sony,9.29
+199,FIFA 21,Switch,2021,Shooter,Bethesda,9.81
+200,Fortnite,PS4,2008,Shooter,EA,20.33
+201,Overwatch,PS5,2007,Sports,Bethesda,11.8
+202,Apex Legends,PC,2014,Sports,Ubisoft,17.64
+203,League of Legends,Switch,2018,Adventure,Nintendo,19.99
+204,Assassin's Creed Valhalla,Switch,2009,Action,Square Enix,20.63
+205,Animal Crossing,PS4,2022,Simulation,Square Enix,14.55
+206,Fortnite,PS5,2008,RPG,Nintendo,20.65
+207,Hades,Xbox One,2002,Shooter,Microsoft,25.17
+208,The Witcher 3,Switch,2019,Action,Square Enix,13.66
+209,Hades,Switch,2009,Action,Microsoft,2.21
+210,Assassin's Creed Valhalla,PS5,2004,RPG,CD Projekt,19.68
+211,Super Mario Odyssey,PS5,2021,RPG,EA,6.77
+212,Among Us,PS5,2017,Simulation,Nintendo,6.78
+213,Valorant,PS5,2009,RPG,CD Projekt,23.08
+214,Hades,PS4,2019,Adventure,Activision,5.29
+215,Red Dead Redemption 2,PS5,2015,Shooter,Square Enix,11.42
+216,Cyberpunk 2077,PS4,2019,RPG,Nintendo,17.29
+217,Minecraft,Switch,2006,Simulation,Activision,1.16
+218,League of Legends,Xbox One,2009,Adventure,Square Enix,19.78
+219,Apex Legends,Switch,2021,Simulation,Square Enix,10.15
+220,Among Us,PC,2003,Sports,Square Enix,14.38
+221,League of Legends,PS4,2017,Action,Epic Games,23.54
+222,Overwatch,PS5,2021,Sports,CD Projekt,8.58
+223,Hades,PS4,2001,Sports,Ubisoft,1.19
+224,Animal Crossing,Xbox One,2008,Sports,EA,15.2
+225,Hades,PS4,2004,Adventure,CD Projekt,24.27
+226,Valorant,PC,2006,Action,EA,15.99
+227,Fortnite,Xbox One,2009,Action,Bethesda,4.44
+228,Assassin's Creed Valhalla,PS5,2020,Action,Square Enix,14.58
+229,Apex Legends,Switch,2014,Sports,EA,12.96
+230,Apex Legends,PS4,2012,Sports,Square Enix,8.27
+231,PUBG,Xbox One,2005,RPG,Activision,23.1
+232,Super Mario Odyssey,PC,2014,Shooter,Square Enix,7.6
+233,The Witcher 3,PS4,2019,RPG,CD Projekt,13.75
+234,Minecraft,PS4,2001,Sports,Square Enix,13.04
+235,Minecraft,PC,2002,Simulation,Activision,2.14
+236,Red Dead Redemption 2,PS4,2021,Sports,Microsoft,15.84
+237,Valorant,PC,2006,Adventure,Ubisoft,25.52
+238,PUBG,Xbox One,2021,RPG,Activision,14.94
+239,Assassin's Creed Valhalla,PC,2000,Simulation,Epic Games,10.98
+240,The Witcher 3,PS5,2019,Action,Square Enix,2.79
+241,Ghost of Tsushima,Xbox One,2015,Action,Square Enix,17.1
+242,Hades,Xbox One,2010,RPG,Activision,12.19
+243,Animal Crossing,PS4,2005,Shooter,Microsoft,4.03
+244,The Witcher 3,Xbox One,2010,Adventure,EA,22.46
+245,Overwatch,PC,2015,RPG,Epic Games,22.25
+246,Super Mario Odyssey,PS4,2021,Adventure,CD Projekt,21.59
+247,Ghost of Tsushima,Switch,2000,Action,Epic Games,24.67
+248,Fortnite,PC,2015,Adventure,Epic Games,20.95
+249,The Legend of Zelda,Xbox One,2017,Action,Epic Games,11.87
+250,Hades,PS5,2001,Simulation,Activision,3.35
+251,Super Mario Odyssey,PS4,2018,Action,Epic Games,26.03
+252,Minecraft,Xbox One,2008,Simulation,Epic Games,20.61
+253,Minecraft,PC,2002,Simulation,Epic Games,18.98
+254,FIFA 21,PS5,2013,Adventure,CD Projekt,9.95
+255,Grand Theft Auto V,Xbox One,2005,Sports,CD Projekt,11.87
+256,Fortnite,PS4,2003,Simulation,Ubisoft,14.7
+257,Apex Legends,PS4,2008,Action,Epic Games,18.36
+258,Hades,Xbox One,2010,Sports,Microsoft,20.35
+259,Cyberpunk 2077,PS4,2006,Simulation,Epic Games,16.81
+260,PUBG,Switch,2002,Simulation,CD Projekt,12.71
+261,Ghost of Tsushima,PS4,2020,Adventure,Microsoft,25.14
+262,Animal Crossing,PC,2011,RPG,Sony,4.9
+263,Red Dead Redemption 2,PS4,2001,Sports,Sony,7.78
+264,Animal Crossing,Xbox One,2012,Sports,Ubisoft,17.97
+265,Minecraft,PC,2010,Sports,CD Projekt,2.3
+266,Grand Theft Auto V,Switch,2000,Shooter,Epic Games,5.35
+267,Hades,PS5,2003,RPG,Epic Games,23.45
+268,Cyberpunk 2077,PC,2012,RPG,Square Enix,7.51
+269,League of Legends,Switch,2001,Action,Sony,26.3
+270,The Legend of Zelda,PS4,2006,Simulation,Activision,2.17
+271,Overwatch,Xbox One,2008,Sports,Square Enix,2.37
+272,The Legend of Zelda,PS5,2010,RPG,Square Enix,1.26
+273,Hades,PS5,2009,Adventure,Sony,21.71
+274,League of Legends,Xbox One,2014,RPG,EA,7.43
+275,Super Mario Odyssey,Xbox One,2004,Shooter,Epic Games,3.6
+276,Ghost of Tsushima,Xbox One,2010,Action,Ubisoft,22.32
+277,PUBG,Switch,2010,Adventure,Square Enix,24.22
+278,Animal Crossing,Xbox One,2005,Simulation,Bethesda,4.48
+279,Red Dead Redemption 2,PS5,2018,Adventure,Microsoft,9.68
+280,Assassin's Creed Valhalla,PS4,2010,Sports,Activision,15.67
+281,Overwatch,PS4,2006,Action,Square Enix,25.75
+282,Fortnite,PC,2009,Adventure,Bethesda,24.61
+283,Cyberpunk 2077,PC,2012,Simulation,Sony,18.36
+284,Ghost of Tsushima,PS5,2020,Shooter,Nintendo,21.14
+285,PUBG,Xbox One,2009,Shooter,EA,25.62
+286,FIFA 21,PS4,2021,Action,Microsoft,10.71
+287,Red Dead Redemption 2,Xbox One,2018,Action,Nintendo,14.54
+288,Fortnite,PS4,2021,Action,Sony,26.52
+289,Among Us,PS5,2012,Shooter,CD Projekt,6.24
+290,Minecraft,Xbox One,2003,RPG,Ubisoft,26.55
+291,Call of Duty,PS4,2001,Action,Activision,18.1
+292,Call of Duty,Xbox One,2014,Action,Ubisoft,29.28
+293,FIFA 21,PS5,2003,Adventure,Square Enix,2.64
+294,The Witcher 3,PS4,2004,Adventure,Activision,1.78
+295,Hades,PS4,2010,Sports,Epic Games,23.74
+296,Assassin's Creed Valhalla,Xbox One,2008,Shooter,Sony,17.99
+297,Fortnite,PS4,2010,Shooter,Ubisoft,2.94
+298,Grand Theft Auto V,PS5,2017,Adventure,Nintendo,16.03
+299,Apex Legends,PS4,2021,Action,Square Enix,22.03
+300,Cyberpunk 2077,Switch,2007,RPG,CD Projekt,13.26
+301,Overwatch,PS4,2003,Simulation,EA,29.42
+302,Cyberpunk 2077,PS5,2012,Action,Sony,2.23
+303,PUBG,PS4,2018,Adventure,Ubisoft,21.16
+304,Cyberpunk 2077,PC,2016,Action,Square Enix,3.7
+305,Ghost of Tsushima,PC,2016,Adventure,CD Projekt,20.85
+306,Fortnite,PC,2013,RPG,EA,12.14
+307,Call of Duty,PC,2001,Adventure,EA,23.26
+308,Among Us,Xbox One,2013,RPG,Microsoft,28.25
+309,Super Mario Odyssey,PS5,2021,Simulation,Activision,15.82
+310,Ghost of Tsushima,PC,2005,Action,Microsoft,15.32
+311,Valorant,Xbox One,2020,Simulation,Activision,25.82
+312,Valorant,Xbox One,2004,Adventure,Nintendo,22.76
+313,Red Dead Redemption 2,Switch,2013,Shooter,CD Projekt,7.38
+314,Super Mario Odyssey,PC,2022,Simulation,Microsoft,5.36
+315,Minecraft,PC,2022,Adventure,Activision,15.96
+316,Overwatch,PC,2006,RPG,Activision,28.25
+317,Call of Duty,PS5,2020,Simulation,Activision,10.9
+318,The Witcher 3,Xbox One,2012,Simulation,Bethesda,6.86
+319,The Legend of Zelda,Switch,2006,Simulation,Microsoft,8.23
+320,Overwatch,PC,2006,Simulation,Square Enix,6.65
+321,Overwatch,PC,2021,Simulation,Square Enix,26.86
+322,Red Dead Redemption 2,Xbox One,2004,Sports,Bethesda,29.21
+323,Cyberpunk 2077,PS4,2016,Action,Bethesda,12.62
+324,The Witcher 3,Switch,2016,Adventure,Ubisoft,6.95
+325,League of Legends,PC,2011,Shooter,CD Projekt,29.95
+326,League of Legends,PS4,2015,Adventure,Bethesda,18.17
+327,Fortnite,PC,2020,Simulation,Ubisoft,9.57
+328,Apex Legends,Xbox One,2018,Shooter,Activision,6.11
+329,Assassin's Creed Valhalla,Switch,2011,Adventure,Bethesda,14.68
+330,Minecraft,Xbox One,2012,Shooter,Nintendo,7.42
+331,The Witcher 3,PS5,2007,Shooter,Ubisoft,20.73
+332,League of Legends,Switch,2008,RPG,Sony,0.67
+333,Valorant,PS5,2006,Simulation,Sony,25.49
+334,Hades,Xbox One,2018,RPG,Microsoft,12.67
+335,The Witcher 3,Xbox One,2010,Sports,Epic Games,19.53
+336,Cyberpunk 2077,Switch,2010,RPG,Square Enix,13.98
+337,PUBG,PC,2013,Action,Microsoft,4.42
+338,PUBG,PS4,2010,Adventure,Bethesda,20.2
+339,Apex Legends,PS4,2008,Action,Epic Games,24.36
+340,Animal Crossing,PS5,2019,Shooter,Square Enix,26.45
+341,PUBG,PS4,2004,Adventure,Ubisoft,28.98
+342,Apex Legends,PS5,2014,Sports,Bethesda,16.76
+343,FIFA 21,PS5,2012,Action,Square Enix,4.47
+344,Animal Crossing,Xbox One,2008,RPG,Sony,16.4
+345,Minecraft,Xbox One,2016,Simulation,Nintendo,8.42
+346,Red Dead Redemption 2,PS4,2017,Adventure,Epic Games,18.53
+347,Fortnite,PS4,2002,Simulation,Activision,15.59
+348,Grand Theft Auto V,PS4,2014,RPG,Activision,27.82
+349,Minecraft,PC,2015,RPG,Epic Games,24.12
+350,Cyberpunk 2077,Switch,2014,Shooter,Activision,25.25
+351,The Legend of Zelda,Switch,2010,Sports,Bethesda,0.15
+352,Super Mario Odyssey,PS5,2016,Action,Microsoft,25.56
+353,PUBG,PS4,2000,Sports,Activision,22.34
+354,The Witcher 3,Xbox One,2015,Action,Nintendo,5.63
+355,The Legend of Zelda,PS5,2003,Sports,Sony,27.21
+356,Cyberpunk 2077,Xbox One,2000,RPG,Sony,10.73
+357,Grand Theft Auto V,Xbox One,2015,Shooter,Bethesda,17.38
+358,Ghost of Tsushima,Xbox One,2019,Action,CD Projekt,2.55
+359,PUBG,Switch,2003,Action,Epic Games,11.79
+360,League of Legends,PC,2020,RPG,Square Enix,11.03
+361,Super Mario Odyssey,PS5,2009,RPG,CD Projekt,3.41
+362,League of Legends,Switch,2001,Sports,Sony,13.57
+363,PUBG,Switch,2014,Sports,Epic Games,11.34
+364,Super Mario Odyssey,PS4,2014,RPG,EA,28.28
+365,League of Legends,PS5,2015,Shooter,Epic Games,27.23
+366,The Legend of Zelda,Switch,2001,Action,Bethesda,13.26
+367,The Witcher 3,PS5,2013,RPG,Nintendo,15.81
+368,The Witcher 3,PS5,2000,Shooter,Square Enix,27.78
+369,FIFA 21,PC,2022,Simulation,CD Projekt,6.09
+370,Super Mario Odyssey,PC,2013,Sports,Ubisoft,20.81
+371,Animal Crossing,Xbox One,2003,Adventure,Ubisoft,18.16
+372,Grand Theft Auto V,Switch,2000,RPG,Ubisoft,5.71
+373,Hades,PC,2000,Action,Ubisoft,24.91
+374,Hades,PC,2021,Adventure,Nintendo,2.81
+375,PUBG,PC,2017,Action,Nintendo,22.67
+376,Minecraft,Switch,2003,Adventure,CD Projekt,12.73
+377,Super Mario Odyssey,PS4,2015,Sports,Activision,19.02
+378,Grand Theft Auto V,Switch,2014,RPG,Epic Games,22.69
+379,League of Legends,Xbox One,2010,Adventure,EA,10.39
+380,Apex Legends,PS5,2015,Action,Square Enix,14.77
+381,Minecraft,PC,2022,Adventure,Activision,0.22
+382,Cyberpunk 2077,Switch,2014,Action,Square Enix,18.69
+383,Valorant,PC,2012,Shooter,Sony,27.47
+384,Valorant,Switch,2004,RPG,Nintendo,27.81
+385,League of Legends,Switch,2003,Action,EA,3.96
+386,Overwatch,Switch,2011,Shooter,Sony,23.12
+387,Overwatch,Xbox One,2022,Sports,EA,7.49
+388,Apex Legends,PC,2002,Adventure,Microsoft,8.08
+389,Fortnite,Xbox One,2020,Simulation,Ubisoft,18.65
+390,Minecraft,Xbox One,2010,Sports,Ubisoft,26.12
+391,Assassin's Creed Valhalla,PC,2017,Shooter,CD Projekt,11.53
+392,The Legend of Zelda,PS5,2017,Shooter,Square Enix,6.57
+393,Among Us,PC,2009,Sports,Square Enix,9.87
+394,Hades,PC,2002,Shooter,Nintendo,29.04
+395,The Legend of Zelda,PS4,2007,Sports,EA,6.59
+396,Call of Duty,PS5,2013,Adventure,Square Enix,17.33
+397,Apex Legends,Xbox One,2009,Simulation,Nintendo,22.61
+398,Animal Crossing,PS4,2016,Shooter,EA,23.02
+399,Among Us,PS5,2007,Simulation,Epic Games,25.6
+400,Animal Crossing,Xbox One,2020,RPG,Sony,7.97
+401,Hades,PC,2013,Sports,Ubisoft,10.52
+402,Cyberpunk 2077,PC,2022,Action,CD Projekt,21.51
+403,Fortnite,PS5,2022,Adventure,Sony,4.55
+404,Grand Theft Auto V,PS4,2003,Action,Epic Games,17.58
+405,Super Mario Odyssey,PS5,2006,Simulation,Sony,1.86
+406,Among Us,Xbox One,2005,Simulation,Ubisoft,26.48
+407,FIFA 21,Switch,2022,Shooter,Sony,1.47
+408,Hades,PS4,2017,Simulation,Activision,25.94
+409,Ghost of Tsushima,PS4,2014,Sports,Epic Games,20.88
+410,Assassin's Creed Valhalla,Xbox One,2008,Action,Epic Games,26.59
+411,Call of Duty,Xbox One,2012,RPG,Activision,15.36
+412,Minecraft,PS5,2005,Sports,EA,9.69
+413,Super Mario Odyssey,PS4,2000,Sports,Epic Games,15.17
+414,Animal Crossing,PS5,2007,Adventure,CD Projekt,25.4
+415,FIFA 21,Xbox One,2005,Shooter,CD Projekt,0.54
+416,Ghost of Tsushima,PC,2004,RPG,EA,3.75
+417,Minecraft,PS4,2010,Sports,CD Projekt,21.52
+418,Minecraft,PS5,2017,Shooter,EA,19.08
+419,Animal Crossing,Switch,2000,Simulation,Sony,18.91
+420,PUBG,PC,2013,Sports,Bethesda,19.9
+421,Animal Crossing,PS4,2019,Shooter,CD Projekt,13.07
+422,The Legend of Zelda,PC,2013,Adventure,Sony,15.51
+423,PUBG,Xbox One,2014,Adventure,Epic Games,2.26
+424,League of Legends,PS4,2002,RPG,Square Enix,18.02
+425,PUBG,PS5,2007,RPG,Square Enix,29.72
+426,Valorant,Xbox One,2000,Adventure,Ubisoft,7.79
+427,Cyberpunk 2077,Xbox One,2009,Action,Activision,4.59
+428,Grand Theft Auto V,PC,2007,Shooter,CD Projekt,19.8
+429,League of Legends,PS4,2002,Shooter,Bethesda,2.54
+430,Ghost of Tsushima,PS5,2016,Shooter,Ubisoft,3.81
+431,League of Legends,PS4,2000,Action,Square Enix,9.28
+432,Overwatch,Switch,2005,Action,Activision,28.64
+433,The Legend of Zelda,PS5,2007,RPG,Nintendo,9.04
+434,Red Dead Redemption 2,Xbox One,2015,Sports,Epic Games,10.09
+435,Minecraft,Switch,2020,Shooter,Bethesda,4.61
+436,Call of Duty,Switch,2002,Simulation,Epic Games,2.1
+437,Grand Theft Auto V,Switch,2014,RPG,Ubisoft,15.22
+438,Valorant,Xbox One,2002,Simulation,Ubisoft,28.51
+439,Minecraft,Xbox One,2005,Sports,Nintendo,3.09
+440,Animal Crossing,Xbox One,2004,Adventure,Ubisoft,15.46
+441,Cyberpunk 2077,PC,2015,Sports,Sony,25.45
+442,Minecraft,Switch,2010,Sports,Square Enix,24.17
+443,Assassin's Creed Valhalla,PS4,2019,Action,EA,27.76
+444,Call of Duty,PS5,2021,Shooter,EA,18.67
+445,Grand Theft Auto V,PS4,2006,Simulation,Ubisoft,8.2
+446,Assassin's Creed Valhalla,PS4,2014,Simulation,Sony,4.63
+447,Cyberpunk 2077,PS4,2012,Sports,Square Enix,15.34
+448,Among Us,PS5,2019,Simulation,Bethesda,28.19
+449,Assassin's Creed Valhalla,PC,2016,RPG,Square Enix,10.38
+450,Grand Theft Auto V,Switch,2017,Simulation,Epic Games,15.94
+451,Minecraft,PC,2004,Action,Sony,2.43
+452,Grand Theft Auto V,Switch,2004,Sports,Microsoft,0.29
+453,Ghost of Tsushima,PC,2012,Simulation,Bethesda,13.2
+454,Assassin's Creed Valhalla,Xbox One,2017,Sports,Sony,5.33
+455,FIFA 21,Xbox One,2004,Sports,Microsoft,0.88
+456,Assassin's Creed Valhalla,PS4,2010,Simulation,EA,9.71
+457,Fortnite,PS5,2001,Shooter,Microsoft,11.61
+458,Grand Theft Auto V,Xbox One,2002,Shooter,Ubisoft,19.55
+459,Minecraft,Xbox One,2003,Simulation,Epic Games,19.22
+460,Apex Legends,Switch,2021,RPG,Activision,29.11
+461,Fortnite,Switch,2006,Shooter,Nintendo,19.79
+462,League of Legends,PS4,2009,Adventure,Bethesda,7.56
+463,Grand Theft Auto V,Xbox One,2022,Action,EA,11.31
+464,Call of Duty,PC,2009,Simulation,Ubisoft,20.75
+465,FIFA 21,PS5,2010,Adventure,Epic Games,20.34
+466,League of Legends,PS5,2016,RPG,Square Enix,20.97
+467,The Legend of Zelda,PS4,2000,Sports,EA,3
+468,Ghost of Tsushima,PC,2018,Sports,Nintendo,15.51
+469,Minecraft,PS4,2013,Adventure,Activision,9.23
+470,Among Us,Switch,2018,RPG,Ubisoft,8.04
+471,Fortnite,PC,2001,Sports,Ubisoft,21.41
+472,Minecraft,Switch,2012,Action,Ubisoft,24.23
+473,Overwatch,Xbox One,2013,Action,EA,15.21
+474,Cyberpunk 2077,PS4,2013,Adventure,Square Enix,12.92
+475,Cyberpunk 2077,PC,2006,RPG,Activision,14.07
+476,PUBG,PS4,2022,Adventure,Microsoft,7.97
+477,PUBG,Xbox One,2006,Sports,Sony,28.87
+478,Grand Theft Auto V,Xbox One,2021,Shooter,Bethesda,23.43
+479,Animal Crossing,Switch,2006,Adventure,Microsoft,11.75
+480,Valorant,PS4,2001,Shooter,Nintendo,15.66
+481,Super Mario Odyssey,PC,2012,Simulation,Ubisoft,27.57
+482,PUBG,Xbox One,2017,Adventure,Sony,3.49
+483,Ghost of Tsushima,PC,2022,Sports,Square Enix,0.75
+484,Grand Theft Auto V,Xbox One,2015,Sports,Sony,14.96
+485,Red Dead Redemption 2,PC,2021,Action,CD Projekt,19.2
+486,Red Dead Redemption 2,PS4,2019,Adventure,EA,19.77
+487,Minecraft,PC,2021,Action,Nintendo,23.41
+488,Red Dead Redemption 2,PC,2008,Sports,EA,23.04
+489,Animal Crossing,Xbox One,2006,Action,Square Enix,2.5
+490,Animal Crossing,PS4,2021,Simulation,Bethesda,14.59
+491,Hades,PC,2012,Sports,Square Enix,27.9
+492,Minecraft,PS5,2009,RPG,Epic Games,29.06
+493,Super Mario Odyssey,Switch,2004,RPG,Sony,29.8
+494,League of Legends,PC,2005,RPG,Sony,25.61
+495,Super Mario Odyssey,Switch,2009,Adventure,Nintendo,2.16
+496,The Legend of Zelda,PS4,2004,Sports,Sony,3.44
+497,Cyberpunk 2077,PS4,2018,RPG,Ubisoft,22.9
+498,Hades,PS5,2011,Shooter,EA,18.9
+499,Overwatch,PC,2017,Shooter,EA,4.1
+500,The Legend of Zelda,PS5,2017,Action,Activision,27.19
+501,Minecraft,Switch,2010,Action,Square Enix,19.74
+502,Among Us,Switch,2015,Shooter,Ubisoft,21.62
+503,League of Legends,PC,2013,Action,CD Projekt,1.2
+504,Assassin's Creed Valhalla,PC,2022,Action,CD Projekt,10.8
+505,Valorant,PC,2016,Simulation,EA,4.66
+506,Red Dead Redemption 2,PS4,2011,Action,Bethesda,26.76
+507,The Witcher 3,PS4,2015,Sports,Nintendo,10.09
+508,Among Us,PC,2011,Shooter,EA,8.39
+509,Valorant,Switch,2022,Simulation,Ubisoft,10.12
+510,The Legend of Zelda,PS4,2010,Shooter,Sony,25.54
+511,Grand Theft Auto V,PS4,2011,Shooter,Ubisoft,16
+512,PUBG,Switch,2005,Adventure,Epic Games,5.14
+513,Hades,PC,2010,Shooter,Ubisoft,20.09
+514,Ghost of Tsushima,Switch,2020,RPG,Sony,23.14
+515,Apex Legends,Switch,2014,RPG,Bethesda,3.51
+516,Ghost of Tsushima,PC,2017,Shooter,Activision,8.21
+517,Red Dead Redemption 2,PS4,2012,Shooter,Bethesda,9.94
+518,League of Legends,Xbox One,2020,RPG,Microsoft,1.45
+519,Assassin's Creed Valhalla,PS4,2006,Action,Nintendo,9.94
+520,Animal Crossing,Switch,2020,RPG,Bethesda,29.25
+521,League of Legends,PC,2008,Simulation,Sony,18.32
+522,Cyberpunk 2077,PS5,2012,RPG,Epic Games,5.49
+523,Ghost of Tsushima,Switch,2019,Adventure,Nintendo,17.52
+524,The Witcher 3,PS5,2013,RPG,Square Enix,10.84
+525,PUBG,Xbox One,2010,Sports,Sony,11.23
+526,Call of Duty,PS5,2008,Adventure,EA,1.44
+527,Valorant,Xbox One,2020,Action,Bethesda,23.54
+528,Call of Duty,PS5,2011,RPG,Ubisoft,26.07
+529,Ghost of Tsushima,PS4,2013,Simulation,Ubisoft,24.98
+530,PUBG,Switch,2018,Sports,Activision,24.01
+531,Valorant,Xbox One,2013,RPG,Ubisoft,15.13
+532,Among Us,Xbox One,2017,Sports,Activision,8.29
+533,Ghost of Tsushima,PS4,2003,Action,CD Projekt,23.88
+534,Ghost of Tsushima,Switch,2018,Simulation,Epic Games,11.15
+535,Red Dead Redemption 2,PC,2011,Adventure,CD Projekt,13.09
+536,Super Mario Odyssey,PS5,2011,RPG,Bethesda,10.14
+537,Fortnite,PS4,2016,RPG,Sony,24.98
+538,Among Us,PS4,2012,Shooter,Nintendo,20.46
+539,Call of Duty,PS5,2008,Simulation,Square Enix,24.47
+540,Hades,PC,2010,Shooter,Epic Games,20.31
+541,Grand Theft Auto V,Xbox One,2003,Adventure,Sony,2.29
+542,Overwatch,PS4,2012,Shooter,CD Projekt,20.95
+543,The Witcher 3,Switch,2015,Adventure,Sony,23.13
+544,Super Mario Odyssey,Xbox One,2018,Adventure,CD Projekt,2.02
+545,The Legend of Zelda,Switch,2017,Simulation,Nintendo,10.29
+546,Apex Legends,PS5,2020,Shooter,Microsoft,23.42
+547,Call of Duty,PS5,2006,RPG,Nintendo,25.09
+548,Hades,PC,2014,Shooter,Microsoft,20.01
+549,Super Mario Odyssey,PS4,2003,Shooter,Epic Games,4.81
+550,Apex Legends,Switch,2001,Simulation,CD Projekt,10.74
+551,Overwatch,PS4,2020,Simulation,Sony,7.8
+552,The Legend of Zelda,Switch,2012,Action,Epic Games,9.23
+553,The Legend of Zelda,Xbox One,2011,Adventure,Epic Games,18.08
+554,Hades,PC,2000,Shooter,Nintendo,26.53
+555,League of Legends,PS4,2001,Action,Square Enix,9.54
+556,Fortnite,Xbox One,2013,Simulation,Sony,15.97
+557,Ghost of Tsushima,PC,2021,Simulation,Epic Games,12.95
+558,Overwatch,Xbox One,2018,RPG,Bethesda,29.8
+559,PUBG,PS5,2010,Action,Nintendo,5.74
+560,League of Legends,Switch,2000,Simulation,Sony,2.27
+561,The Witcher 3,Switch,2020,Adventure,EA,9.64
+562,Fortnite,Switch,2018,Simulation,Sony,25.91
+563,Apex Legends,PS5,2005,RPG,Sony,16.42
+564,Valorant,PS5,2004,Shooter,Bethesda,24.97
+565,Fortnite,PC,2022,RPG,EA,12.32
+566,Ghost of Tsushima,PS5,2022,Shooter,Activision,5.7
+567,The Witcher 3,PC,2006,Action,Epic Games,11.87
+568,The Witcher 3,Xbox One,2016,Simulation,Sony,24.15
+569,Hades,PS4,2002,Simulation,Nintendo,7.85
+570,Fortnite,PS5,2008,Action,Square Enix,29.79
+571,Overwatch,PC,2020,Shooter,Nintendo,4.52
+572,Assassin's Creed Valhalla,Xbox One,2013,RPG,Epic Games,12.84
+573,Overwatch,PC,2016,Shooter,EA,8.71
+574,Cyberpunk 2077,PC,2014,Action,EA,29.35
+575,FIFA 21,Switch,2007,Simulation,EA,23.71
+576,PUBG,Switch,2003,Sports,Microsoft,28.77
+577,Apex Legends,Xbox One,2022,Adventure,Sony,19.75
+578,Call of Duty,Switch,2021,Shooter,Bethesda,8.53
+579,Apex Legends,PS5,2013,Sports,Microsoft,24.22
+580,Assassin's Creed Valhalla,PS5,2004,RPG,Ubisoft,19.17
+581,Assassin's Creed Valhalla,Switch,2001,Sports,EA,13.96
+582,FIFA 21,Switch,2005,Simulation,Bethesda,19.75
+583,Assassin's Creed Valhalla,PS5,2014,Action,CD Projekt,18.09
+584,The Witcher 3,PC,2015,Adventure,EA,2.97
+585,FIFA 21,PC,2000,RPG,Microsoft,27.27
+586,Red Dead Redemption 2,Switch,2000,RPG,Ubisoft,17.47
+587,Fortnite,PS4,2000,Simulation,Nintendo,28.17
+588,Overwatch,PS5,2008,Sports,Epic Games,3.57
+589,The Witcher 3,PS4,2004,Shooter,Nintendo,13.22
+590,Assassin's Creed Valhalla,PS4,2005,Adventure,EA,10.43
+591,Fortnite,PS5,2010,Action,Epic Games,25.95
+592,Ghost of Tsushima,Xbox One,2008,RPG,Epic Games,19.2
+593,Overwatch,Xbox One,2005,RPG,Microsoft,28.26
+594,Super Mario Odyssey,Switch,2020,Adventure,Square Enix,12.23
+595,Assassin's Creed Valhalla,PC,2005,Sports,CD Projekt,8.37
+596,PUBG,PS5,2011,Simulation,Epic Games,12.98
+597,Valorant,PS4,2005,Simulation,EA,8.53
+598,Super Mario Odyssey,Xbox One,2015,Shooter,Square Enix,13.19
+599,Fortnite,Xbox One,2022,Shooter,Epic Games,20.6
+600,Red Dead Redemption 2,Xbox One,2011,Shooter,EA,16.95
+601,Hades,Xbox One,2009,Shooter,EA,20.54
+602,Cyberpunk 2077,PS5,2021,Sports,EA,16.42
+603,Animal Crossing,PS4,2005,Shooter,Microsoft,19.57
+604,Overwatch,Xbox One,2009,Shooter,Microsoft,17.39
+605,Animal Crossing,PS4,2004,Action,Bethesda,16.12
+606,Apex Legends,PC,2008,Action,Sony,13.82
+607,FIFA 21,PS5,2014,Sports,Sony,4.96
+608,Assassin's Creed Valhalla,PS4,2020,Sports,EA,4.25
+609,Minecraft,Xbox One,2011,Adventure,Sony,3.3
+610,Fortnite,Switch,2000,Shooter,Sony,7.36
+611,Ghost of Tsushima,PS4,2016,Shooter,Ubisoft,17.48
+612,Red Dead Redemption 2,PC,2017,RPG,CD Projekt,3.54
+613,FIFA 21,Xbox One,2014,Shooter,Activision,21.14
+614,Call of Duty,Xbox One,2019,Sports,Bethesda,3.63
+615,Super Mario Odyssey,Switch,2008,Sports,Microsoft,3.65
+616,Assassin's Creed Valhalla,PS5,2019,Adventure,Ubisoft,16.08
+617,Grand Theft Auto V,PS4,2000,Sports,Sony,3.79
+618,Cyberpunk 2077,PS5,2017,RPG,Epic Games,5.07
+619,League of Legends,Switch,2015,Shooter,Sony,21.12
+620,League of Legends,PS5,2003,Sports,Ubisoft,3.64
+621,Fortnite,Switch,2022,Simulation,Sony,9.18
+622,Ghost of Tsushima,Switch,2004,Adventure,EA,15.71
+623,Overwatch,Xbox One,2010,Simulation,Epic Games,28.08
+624,Apex Legends,PC,2008,Adventure,Ubisoft,22.84
+625,Cyberpunk 2077,PS5,2019,Action,EA,11.32
+626,Call of Duty,PC,2004,Shooter,Square Enix,25.89
+627,Red Dead Redemption 2,Switch,2001,Shooter,Square Enix,9.87
+628,Animal Crossing,Xbox One,2003,Sports,CD Projekt,1.5
+629,Grand Theft Auto V,Switch,2012,Shooter,Ubisoft,24.09
+630,The Witcher 3,Switch,2002,Action,Microsoft,6.18
+631,Fortnite,Switch,2003,Action,Activision,9.78
+632,Animal Crossing,Switch,2007,Shooter,Nintendo,9.65
+633,Ghost of Tsushima,Xbox One,2007,Simulation,Bethesda,3.29
+634,Assassin's Creed Valhalla,PC,2013,Simulation,Activision,21.17
+635,League of Legends,PS4,2009,Adventure,Nintendo,15.31
+636,Super Mario Odyssey,PC,2005,Simulation,CD Projekt,28.9
+637,Apex Legends,PC,2002,Shooter,Microsoft,13.01
+638,Red Dead Redemption 2,PS5,2022,Adventure,Square Enix,15.23
+639,The Legend of Zelda,Xbox One,2011,Action,Activision,25.58
+640,Red Dead Redemption 2,Xbox One,2022,Adventure,EA,20.09
+641,Overwatch,Switch,2005,Shooter,Activision,20.39
+642,Among Us,PS5,2012,Shooter,Sony,2.06
+643,Valorant,PS5,2014,Sports,Bethesda,22.21
+644,Ghost of Tsushima,Switch,2011,Shooter,Square Enix,13.98
+645,Minecraft,PC,2010,Simulation,CD Projekt,29.01
+646,Red Dead Redemption 2,Switch,2005,Sports,EA,1.32
+647,The Witcher 3,PS4,2001,Sports,EA,11.78
+648,The Witcher 3,Xbox One,2014,Action,CD Projekt,17.33
+649,FIFA 21,Xbox One,2019,Shooter,Bethesda,7.16
+650,Among Us,Switch,2013,RPG,Activision,26.78
+651,Among Us,Xbox One,2018,Shooter,Epic Games,24.58
+652,League of Legends,PS5,2010,Simulation,Activision,25.99
+653,Call of Duty,Switch,2009,Action,Ubisoft,21.88
+654,Fortnite,Xbox One,2019,Sports,Sony,5.67
+655,PUBG,Switch,2000,RPG,Microsoft,23.73
+656,Grand Theft Auto V,Xbox One,2015,Adventure,Activision,25.67
+657,Call of Duty,PC,2007,Action,Epic Games,16.1
+658,Ghost of Tsushima,PC,2009,Simulation,Ubisoft,27.18
+659,Super Mario Odyssey,PC,2021,RPG,Microsoft,19.4
+660,The Witcher 3,PC,2018,Simulation,Activision,18.97
+661,Fortnite,Xbox One,2014,Sports,CD Projekt,13.51
+662,League of Legends,Xbox One,2016,RPG,Ubisoft,10.64
+663,FIFA 21,PC,2011,Sports,Nintendo,17.37
+664,Fortnite,PS4,2018,Shooter,Nintendo,23.68
+665,Animal Crossing,PS5,2021,RPG,Bethesda,24.35
+666,Red Dead Redemption 2,PC,2006,Simulation,Sony,14.11
+667,Grand Theft Auto V,Xbox One,2004,Adventure,Epic Games,18.16
+668,Fortnite,PS4,2006,Simulation,Activision,27.53
+669,Super Mario Odyssey,PS4,2005,Sports,Microsoft,10.47
+670,FIFA 21,PS5,2009,Adventure,Ubisoft,9.44
+671,Overwatch,Xbox One,2009,Sports,CD Projekt,10.11
+672,Among Us,PS5,2009,RPG,EA,1.1
+673,Super Mario Odyssey,PS4,2006,Action,Epic Games,15.01
+674,The Legend of Zelda,PS5,2011,Shooter,Microsoft,25.3
+675,Among Us,Xbox One,2002,Adventure,CD Projekt,24.27
+676,FIFA 21,Switch,2009,Simulation,Square Enix,15.05
+677,Valorant,Xbox One,2003,Action,EA,13.79
+678,Animal Crossing,Xbox One,2008,RPG,Bethesda,3.56
+679,Valorant,Xbox One,2016,Simulation,Epic Games,14.31
+680,Call of Duty,PS4,2020,Action,Activision,5.86
+681,Among Us,Xbox One,2000,RPG,Microsoft,22.82
+682,The Legend of Zelda,Switch,2000,Action,EA,3.23
+683,FIFA 21,Xbox One,2010,Adventure,Square Enix,10.05
+684,Cyberpunk 2077,PS4,2017,RPG,Sony,19.29
+685,Valorant,Switch,2016,Adventure,Square Enix,15.48
+686,Assassin's Creed Valhalla,PC,2007,Shooter,Sony,24.71
+687,Hades,PC,2007,Shooter,EA,18.56
+688,Call of Duty,PC,2007,Action,Epic Games,26.18
+689,PUBG,PC,2020,Shooter,Epic Games,7.68
+690,Grand Theft Auto V,Xbox One,2021,Adventure,EA,12.79
+691,Minecraft,Switch,2008,Simulation,Epic Games,11.69
+692,FIFA 21,PC,2018,RPG,Activision,0.65
+693,Fortnite,PS5,2018,Simulation,CD Projekt,1.04
+694,PUBG,Xbox One,2000,Simulation,Ubisoft,16.96
+695,The Legend of Zelda,PS5,2003,Action,Ubisoft,7
+696,Hades,Xbox One,2010,Sports,Bethesda,17.79
+697,The Legend of Zelda,Xbox One,2012,Action,Microsoft,19.86
+698,Assassin's Creed Valhalla,Switch,2020,Sports,Nintendo,11
+699,Super Mario Odyssey,PC,2022,Simulation,Microsoft,21.96
+700,Hades,Switch,2007,Action,Epic Games,25.74
+701,Fortnite,Switch,2016,RPG,EA,2.44
+702,Fortnite,Switch,2009,Shooter,Ubisoft,18.1
+703,Ghost of Tsushima,PS4,2016,Simulation,Epic Games,0.73
+704,The Legend of Zelda,Switch,2013,Simulation,Ubisoft,5.17
+705,Valorant,Xbox One,2014,RPG,EA,1.08
+706,Call of Duty,PS5,2003,Shooter,Sony,26.14
+707,Apex Legends,Switch,2022,Adventure,Epic Games,13.1
+708,Apex Legends,PS5,2009,Simulation,Sony,6.13
+709,Assassin's Creed Valhalla,Switch,2014,Action,EA,17.7
+710,Cyberpunk 2077,Switch,2011,RPG,Sony,21.61
+711,Assassin's Creed Valhalla,Xbox One,2010,Sports,EA,1.79
+712,Fortnite,Xbox One,2011,Shooter,Epic Games,16.32
+713,League of Legends,Switch,2017,Shooter,Nintendo,7.65
+714,Apex Legends,PS4,2001,Adventure,CD Projekt,23.64
+715,FIFA 21,Xbox One,2002,Simulation,Nintendo,20.5
+716,Red Dead Redemption 2,Xbox One,2017,RPG,Epic Games,13.88
+717,League of Legends,Xbox One,2000,Sports,Activision,6.25
+718,Among Us,Switch,2015,Sports,Bethesda,9.95
+719,Ghost of Tsushima,Switch,2021,RPG,CD Projekt,4.75
+720,PUBG,Xbox One,2010,RPG,Square Enix,2.9
+721,Among Us,PC,2019,Adventure,Activision,9.06
+722,Minecraft,PS5,2018,Sports,EA,10.71
+723,Hades,Xbox One,2005,Sports,Sony,15.03
+724,Ghost of Tsushima,PS5,2021,Simulation,Epic Games,1.97
+725,Super Mario Odyssey,PS5,2006,RPG,Square Enix,15.32
+726,Minecraft,Switch,2017,Adventure,Activision,18.38
+727,Apex Legends,PS5,2006,RPG,Sony,0.71
+728,Ghost of Tsushima,PC,2001,Shooter,Sony,20.78
+729,Minecraft,Xbox One,2020,Adventure,Activision,2.44
+730,Assassin's Creed Valhalla,Switch,2002,Shooter,Ubisoft,12.34
+731,Overwatch,PS5,2011,Adventure,EA,1.87
+732,Overwatch,PS4,2018,Action,Activision,9.94
+733,Fortnite,PS4,2004,Simulation,Bethesda,18.35
+734,Assassin's Creed Valhalla,PS4,2018,Action,Square Enix,5.42
+735,Animal Crossing,Xbox One,2004,Adventure,Bethesda,8.16
+736,Valorant,PS5,2015,Action,Epic Games,12.76
+737,Super Mario Odyssey,Xbox One,2018,Shooter,EA,22.99
+738,Hades,PC,2016,Sports,Microsoft,18.53
+739,Among Us,Switch,2022,Adventure,EA,4.95
+740,Overwatch,PS5,2013,Shooter,Sony,28.27
+741,League of Legends,PC,2019,Adventure,EA,8
+742,Apex Legends,Xbox One,2018,Action,Nintendo,8.79
+743,Hades,PS5,2017,RPG,Activision,18.46
+744,Fortnite,Switch,2011,Action,Activision,0.3
+745,Among Us,PC,2020,RPG,Microsoft,10.35
+746,Ghost of Tsushima,PS5,2022,Shooter,CD Projekt,7.54
+747,PUBG,Switch,2005,Action,Square Enix,15.69
+748,League of Legends,Xbox One,2018,Shooter,Sony,19.69
+749,Minecraft,PC,2007,Shooter,Activision,25.77
+750,Among Us,Switch,2009,Action,Sony,23.52
+751,The Legend of Zelda,Switch,2013,RPG,Epic Games,25.01
+752,PUBG,Xbox One,2018,Action,Sony,10.24
+753,Valorant,PS4,2021,RPG,Nintendo,27.07
+754,Cyberpunk 2077,Xbox One,2018,Simulation,EA,11.73
+755,Minecraft,PS5,2001,Sports,Sony,29.01
+756,Valorant,PC,2020,Shooter,Ubisoft,23.54
+757,Fortnite,Xbox One,2001,Action,Nintendo,9.42
+758,PUBG,PS5,2004,Simulation,Microsoft,7.96
+759,Grand Theft Auto V,PS4,2007,Shooter,Activision,29.93
+760,Ghost of Tsushima,Xbox One,2011,Shooter,Bethesda,22.01
+761,Red Dead Redemption 2,Xbox One,2016,Sports,CD Projekt,21.33
+762,Apex Legends,Xbox One,2017,Simulation,Ubisoft,16.87
+763,Fortnite,PS4,2000,Adventure,EA,19.99
+764,Apex Legends,Switch,2002,Adventure,CD Projekt,21.12
+765,Super Mario Odyssey,Xbox One,2011,Action,Nintendo,11.12
+766,League of Legends,PS4,2017,Action,Square Enix,21.11
+767,The Legend of Zelda,PS4,2004,RPG,Activision,1.8
+768,Assassin's Creed Valhalla,PS5,2014,Action,Epic Games,26.32
+769,Minecraft,PC,2021,RPG,Activision,23.43
+770,The Legend of Zelda,PS4,2009,Shooter,EA,17.87
+771,Red Dead Redemption 2,PS5,2022,RPG,Square Enix,3.04
+772,Animal Crossing,Xbox One,2000,Adventure,Microsoft,21.11
+773,Ghost of Tsushima,Switch,2016,Adventure,EA,18.26
+774,Call of Duty,Switch,2014,Simulation,Square Enix,4.82
+775,PUBG,PS5,2004,Adventure,Epic Games,16.38
+776,Apex Legends,Switch,2005,Adventure,EA,25.69
+777,FIFA 21,PC,2008,Simulation,EA,5.71
+778,Minecraft,PS5,2015,RPG,Activision,20.49
+779,Grand Theft Auto V,PS5,2008,Simulation,CD Projekt,9.13
+780,Grand Theft Auto V,Xbox One,2012,RPG,Sony,6.97
+781,PUBG,PC,2007,Sports,Epic Games,3.66
+782,The Witcher 3,PS5,2007,Action,Bethesda,26.24
+783,The Witcher 3,PC,2019,Shooter,Microsoft,4.69
+784,Apex Legends,PS5,2000,Simulation,Ubisoft,7.09
+785,League of Legends,PS4,2004,Action,Ubisoft,25.7
+786,Apex Legends,Switch,2007,Action,Ubisoft,9.15
+787,Ghost of Tsushima,PS4,2002,Sports,Nintendo,0.59
+788,The Legend of Zelda,PS4,2017,Shooter,Microsoft,20.86
+789,League of Legends,PS5,2018,Simulation,Epic Games,23.11
+790,FIFA 21,Xbox One,2018,Sports,Epic Games,3.62
+791,PUBG,PC,2013,Shooter,Square Enix,27.06
+792,Among Us,Switch,2019,Simulation,Microsoft,17.95
+793,Among Us,PS5,2021,Sports,Square Enix,2.6
+794,PUBG,PS4,2008,Simulation,Square Enix,29.08
+795,Apex Legends,PC,2021,Adventure,Microsoft,1.43
+796,The Legend of Zelda,PS5,2008,Sports,Activision,4.41
+797,Minecraft,Switch,2013,Sports,Activision,17.61
+798,Among Us,PS4,2019,Shooter,Nintendo,6.51
+799,The Witcher 3,Xbox One,2020,RPG,CD Projekt,12.94
+800,Ghost of Tsushima,PS5,2003,Action,CD Projekt,13.88
+801,Call of Duty,PC,2022,RPG,Ubisoft,23.07
+802,The Witcher 3,PS5,2004,Adventure,Epic Games,7.54
+803,Valorant,PC,2006,Shooter,Activision,23.58
+804,Minecraft,PS4,2005,Sports,Activision,8.79
+805,Cyberpunk 2077,Switch,2005,Simulation,Ubisoft,8.34
+806,Animal Crossing,PS5,2011,RPG,Epic Games,6.23
+807,Hades,Switch,2019,Action,Bethesda,12.73
+808,Apex Legends,PS5,2009,RPG,Bethesda,26.43
+809,Animal Crossing,PS4,2014,Shooter,CD Projekt,22.94
+810,Fortnite,Xbox One,2000,Adventure,Nintendo,27.81
+811,Minecraft,PC,2019,Adventure,EA,8.7
+812,Valorant,PC,2012,Simulation,Square Enix,10.38
+813,League of Legends,Xbox One,2012,Simulation,Sony,14.05
+814,Fortnite,PS5,2012,Sports,CD Projekt,29.69
+815,Grand Theft Auto V,PS5,2010,Shooter,Nintendo,2.52
+816,Animal Crossing,PC,2022,Simulation,Epic Games,13.72
+817,Apex Legends,Switch,2003,Shooter,Activision,0.72
+818,Overwatch,PS5,2021,Adventure,Nintendo,6.21
+819,Animal Crossing,Switch,2017,Sports,Ubisoft,22.38
+820,The Witcher 3,PS5,2020,RPG,Square Enix,29.06
+821,Hades,PS5,2011,Action,Bethesda,12.79
+822,Hades,Switch,2014,Sports,Sony,16.01
+823,The Legend of Zelda,PS5,2015,Sports,Sony,3.58
+824,Assassin's Creed Valhalla,PS4,2018,Sports,Sony,10.99
+825,Among Us,Switch,2015,RPG,CD Projekt,22.52
+826,Minecraft,PC,2003,Sports,Sony,7.19
+827,FIFA 21,PS4,2000,Action,CD Projekt,3.92
+828,Super Mario Odyssey,PS4,2003,Action,CD Projekt,19.63
+829,Cyberpunk 2077,PS4,2006,RPG,Nintendo,25.57
+830,Ghost of Tsushima,PC,2018,RPG,EA,27.84
+831,The Witcher 3,PS4,2021,Sports,Activision,0.73
+832,Ghost of Tsushima,Xbox One,2018,Simulation,EA,4.04
+833,Among Us,PC,2019,RPG,Microsoft,29.08
+834,The Legend of Zelda,Switch,2020,Adventure,Square Enix,4.95
+835,The Witcher 3,Switch,2001,Action,Epic Games,10.14
+836,Red Dead Redemption 2,PS5,2006,Adventure,Nintendo,1.56
+837,Assassin's Creed Valhalla,Switch,2017,RPG,Sony,22.59
+838,Cyberpunk 2077,PC,2000,Adventure,Square Enix,11.96
+839,Among Us,Xbox One,2015,Action,EA,28.73
+840,Among Us,Xbox One,2013,Action,Sony,7.43
+841,Call of Duty,PS4,2014,Action,Nintendo,12.23
+842,Minecraft,PS4,2018,Action,Bethesda,22.66
+843,Among Us,PS5,2022,RPG,Microsoft,28.6
+844,Assassin's Creed Valhalla,PS4,2012,Sports,Epic Games,12.87
+845,The Legend of Zelda,Switch,2019,Action,Ubisoft,19.75
+846,Red Dead Redemption 2,PS5,2019,RPG,Ubisoft,26.53
+847,Apex Legends,PC,2006,Action,Bethesda,29.43
+848,Minecraft,PC,2006,Sports,EA,22.26
+849,Assassin's Creed Valhalla,PC,2007,Action,CD Projekt,2.44
+850,Hades,Switch,2018,Action,Square Enix,3.1
+851,Super Mario Odyssey,Xbox One,2001,RPG,Sony,8.47
+852,Ghost of Tsushima,Switch,2012,RPG,Epic Games,15.21
+853,Red Dead Redemption 2,PS4,2021,Sports,CD Projekt,18.3
+854,The Witcher 3,PC,2007,Adventure,Activision,13.32
+855,Call of Duty,Switch,2015,Action,Microsoft,9.45
+856,The Witcher 3,Xbox One,2014,Sports,Bethesda,14.08
+857,Hades,PS5,2001,Simulation,Epic Games,12.22
+858,Apex Legends,PS5,2014,Adventure,Activision,16.58
+859,Hades,PC,2022,RPG,EA,19.97
+860,The Legend of Zelda,PS5,2013,RPG,Square Enix,9.29
+861,Valorant,PC,2013,RPG,Activision,10.82
+862,Fortnite,PS5,2016,RPG,Activision,8.37
+863,Cyberpunk 2077,Switch,2021,Simulation,Square Enix,22.31
+864,Cyberpunk 2077,Switch,2011,RPG,Ubisoft,15.12
+865,Overwatch,PS4,2020,RPG,Ubisoft,13.95
+866,The Witcher 3,Xbox One,2012,Sports,Bethesda,16.78
+867,Minecraft,Switch,2014,Action,Sony,3.26
+868,Apex Legends,PS4,2000,Adventure,Square Enix,15.8
+869,PUBG,Xbox One,2002,Sports,Sony,17.57
+870,The Witcher 3,PC,2013,Sports,Bethesda,14.28
+871,FIFA 21,PC,2022,Adventure,Microsoft,14.32
+872,Red Dead Redemption 2,Switch,2018,Action,Bethesda,20.9
+873,League of Legends,PS5,2022,Action,Square Enix,6.44
+874,Valorant,Xbox One,2006,Shooter,Square Enix,19.9
+875,Grand Theft Auto V,PS4,2006,Sports,Ubisoft,2.14
+876,Grand Theft Auto V,PC,2006,Adventure,Microsoft,1.74
+877,Minecraft,Switch,2006,Adventure,Square Enix,28.89
+878,Assassin's Creed Valhalla,Xbox One,2006,Simulation,CD Projekt,23.16
+879,Valorant,PC,2011,Action,Sony,24.23
+880,Super Mario Odyssey,PS5,2011,Adventure,Activision,12.31
+881,PUBG,Xbox One,2018,Sports,Activision,18
+882,Grand Theft Auto V,PC,2006,RPG,Ubisoft,17.46
+883,Assassin's Creed Valhalla,Xbox One,2018,Action,Sony,1.07
+884,Cyberpunk 2077,PC,2016,RPG,CD Projekt,23.83
+885,Call of Duty,PC,2017,Simulation,Ubisoft,22.15
+886,Apex Legends,PS5,2003,Sports,Bethesda,22.56
+887,Super Mario Odyssey,Switch,2001,Adventure,EA,22.97
+888,Minecraft,PS5,2011,Shooter,Square Enix,28.59
+889,Among Us,Switch,2013,Adventure,Epic Games,20.89
+890,Hades,PC,2019,RPG,CD Projekt,11.39
+891,Assassin's Creed Valhalla,Xbox One,2000,Simulation,CD Projekt,21.75
+892,Ghost of Tsushima,Xbox One,2011,Shooter,Activision,17.99
+893,Overwatch,Switch,2022,Shooter,Nintendo,16.26
+894,Cyberpunk 2077,PS5,2005,Shooter,Activision,2.88
+895,Animal Crossing,PC,2021,Shooter,Activision,28.6
+896,Super Mario Odyssey,PS4,2010,RPG,Bethesda,6.77
+897,Fortnite,Switch,2005,RPG,Nintendo,26.36
+898,The Legend of Zelda,PC,2014,RPG,Epic Games,13.36
+899,Red Dead Redemption 2,Xbox One,2006,Shooter,Bethesda,30
+900,Valorant,PS4,2020,Simulation,Ubisoft,27.05
+901,PUBG,Xbox One,2021,Adventure,Sony,18.44
+902,Red Dead Redemption 2,PS4,2006,Simulation,Bethesda,2.68
+903,Minecraft,PC,2016,Sports,Nintendo,22.57
+904,The Witcher 3,Switch,2019,Adventure,Microsoft,11.96
+905,Hades,Xbox One,2016,RPG,Nintendo,23.95
+906,Grand Theft Auto V,PS4,2003,Shooter,CD Projekt,18.37
+907,Super Mario Odyssey,PS5,2010,Adventure,EA,5.54
+908,Hades,Switch,2009,Adventure,EA,0.73
+909,Apex Legends,PS5,2000,Shooter,Microsoft,7.52
+910,The Legend of Zelda,Xbox One,2018,Simulation,Bethesda,5.83
+911,Hades,PS4,2015,Shooter,Bethesda,21.28
+912,Super Mario Odyssey,PC,2013,RPG,Sony,4.09
+913,Ghost of Tsushima,Switch,2019,Shooter,EA,18.2
+914,Assassin's Creed Valhalla,PC,2017,Simulation,Ubisoft,8.69
+915,Hades,Xbox One,2022,Sports,Epic Games,7.82
+916,PUBG,PC,2017,Sports,Activision,25.7
+917,Grand Theft Auto V,PS5,2020,Action,Sony,3.75
+918,The Legend of Zelda,Xbox One,2011,Sports,Nintendo,2.24
+919,Minecraft,PS5,2008,RPG,Ubisoft,22.44
+920,League of Legends,PC,2006,Simulation,Bethesda,4.91
+921,Animal Crossing,PS5,2012,Simulation,Microsoft,3.09
+922,Red Dead Redemption 2,PS4,2012,Sports,Sony,11.53
+923,FIFA 21,PC,2012,Adventure,CD Projekt,0.36
+924,Ghost of Tsushima,PS5,2021,Shooter,Ubisoft,5.84
+925,Overwatch,Switch,2012,Sports,CD Projekt,9.64
+926,Hades,PS4,2013,Simulation,Activision,0.89
+927,Super Mario Odyssey,PS4,2021,Adventure,EA,4.09
+928,Overwatch,Switch,2016,Sports,Microsoft,16.08
+929,Minecraft,PC,2019,Shooter,Ubisoft,15.88
+930,Minecraft,Switch,2000,Action,Bethesda,25.18
+931,Overwatch,PS5,2003,Shooter,Sony,29.15
+932,Apex Legends,Xbox One,2020,Simulation,Square Enix,10.77
+933,Assassin's Creed Valhalla,PC,2003,Simulation,Square Enix,11.41
+934,Hades,Xbox One,2000,Action,EA,7.17
+935,Cyberpunk 2077,PS4,2007,Sports,Square Enix,13.87
+936,Overwatch,PS4,2006,Action,CD Projekt,20.34
+937,Valorant,Switch,2010,Simulation,Bethesda,9.04
+938,Minecraft,PC,2013,Simulation,Microsoft,5.96
+939,Minecraft,Xbox One,2009,Shooter,Bethesda,4.72
+940,Fortnite,Xbox One,2011,Simulation,Bethesda,13.77
+941,FIFA 21,Switch,2005,Sports,CD Projekt,22.5
+942,Call of Duty,PS5,2020,RPG,Square Enix,23.61
+943,Valorant,PC,2022,Shooter,Sony,0.62
+944,Red Dead Redemption 2,Xbox One,2005,Adventure,Nintendo,4.07
+945,Overwatch,PC,2022,Shooter,Nintendo,20.53
+946,Valorant,Xbox One,2021,Action,Epic Games,28.63
+947,Super Mario Odyssey,PC,2006,Simulation,Square Enix,23.28
+948,Fortnite,PS5,2000,Adventure,Bethesda,21.16
+949,Apex Legends,Switch,2014,Sports,Activision,12.76
+950,Super Mario Odyssey,Switch,2004,Shooter,Activision,18.33
+951,League of Legends,Xbox One,2013,Adventure,Square Enix,18.58
+952,Apex Legends,Switch,2022,Simulation,Epic Games,25.37
+953,Overwatch,PS5,2016,Simulation,CD Projekt,7.51
+954,The Legend of Zelda,Xbox One,2010,Sports,Sony,5.67
+955,Hades,Switch,2012,RPG,Square Enix,0.66
+956,FIFA 21,Switch,2002,Simulation,CD Projekt,14.31
+957,Assassin's Creed Valhalla,PC,2005,Shooter,Bethesda,26.76
+958,Animal Crossing,PC,2008,Adventure,EA,18.58
+959,PUBG,Switch,2021,Action,Microsoft,4.98
+960,Red Dead Redemption 2,Xbox One,2000,RPG,Activision,3.15
+961,The Legend of Zelda,PS4,2018,Action,CD Projekt,8.72
+962,Call of Duty,Switch,2012,Action,Microsoft,19.04
+963,Valorant,Switch,2002,Adventure,Activision,2.4
+964,Fortnite,PC,2016,RPG,Sony,12.4
+965,Grand Theft Auto V,Switch,2005,Simulation,Microsoft,13.99
+966,Cyberpunk 2077,PS5,2019,RPG,Nintendo,19.83
+967,Minecraft,Xbox One,2003,Adventure,Ubisoft,15.01
+968,Fortnite,Switch,2012,Sports,Sony,8.65
+969,Call of Duty,Xbox One,2000,RPG,Sony,17.46
+970,FIFA 21,PS4,2008,Sports,Ubisoft,2.62
+971,Animal Crossing,PS4,2020,Sports,Activision,24.13
+972,Assassin's Creed Valhalla,Xbox One,2019,Adventure,Epic Games,8.5
+973,League of Legends,PS5,2007,RPG,Square Enix,2.81
+974,Cyberpunk 2077,Switch,2010,RPG,Epic Games,24.22
+975,Animal Crossing,PS4,2004,RPG,Bethesda,25.89
+976,Hades,Switch,2002,Action,Activision,4.36
+977,Overwatch,PC,2004,Action,Bethesda,13.53
+978,Grand Theft Auto V,Switch,2001,Adventure,Square Enix,21.19
+979,Hades,Switch,2014,RPG,Bethesda,27.59
+980,The Witcher 3,PS4,2015,Action,Activision,24.85
+981,Grand Theft Auto V,Switch,2004,Adventure,Nintendo,24.88
+982,Cyberpunk 2077,PS4,2008,Sports,Nintendo,19.03
+983,League of Legends,Switch,2018,Action,Microsoft,5.18
+984,Among Us,Switch,2016,Sports,CD Projekt,24.74
+985,Among Us,PS5,2009,Action,Square Enix,14.26
+986,Among Us,PC,2006,RPG,Microsoft,16.56
+987,The Legend of Zelda,PC,2014,Action,Microsoft,16.5
+988,PUBG,PC,2016,Adventure,Microsoft,5.44
+989,Apex Legends,PC,2020,Simulation,Activision,22.02
+990,Hades,PS5,2012,RPG,Nintendo,24.35
+991,PUBG,PS4,2010,Shooter,Square Enix,15.28
+992,PUBG,PS5,2001,Sports,EA,10.66
+993,The Witcher 3,PS5,2014,RPG,Epic Games,28.46
+994,FIFA 21,PS5,2017,Shooter,Activision,6.11
+995,Apex Legends,PS5,2005,Shooter,Ubisoft,6.09
+996,Ghost of Tsushima,PC,2017,Shooter,EA,3.59
+997,Super Mario Odyssey,PS4,2018,Sports,Bethesda,18.83
+998,Apex Legends,PS4,2013,Simulation,Ubisoft,9.05
+999,Minecraft,Switch,2003,Shooter,Microsoft,23.42
+1000,Valorant,Xbox One,2009,Sports,Activision,28.88
