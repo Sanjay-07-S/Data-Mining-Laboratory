@@ -51,29 +51,31 @@ def estimate_conditional_probs(dataset, feature_index, outcome_index):
 
     return conditional_probs
 
-
-# 4. Perform inference using Bayes' theorem
 def predict_diabetes(priors, conditional_probs, evidence):
-    # Calculate P(evidence | Outcome=1) and P(evidence | Outcome=0)
     p_evidence_given_diabetes = 1
     p_evidence_given_no_diabetes = 1
 
     for feature, value in evidence.items():
         if feature in conditional_probs:
-            p_evidence_given_diabetes *= conditional_probs[feature].get(value, {}).get('1', 0)
-            p_evidence_given_no_diabetes *= conditional_probs[feature].get(value, {}).get('0', 0)
+            p_diabetes = conditional_probs[feature].get(value, {}).get('1', 1e-6)
+            p_no_diabetes = conditional_probs[feature].get(value, {}).get('0', 1e-6)
+            p_evidence_given_diabetes *= p_diabetes
+            p_evidence_given_no_diabetes *= p_no_diabetes
 
-    # Priors
+
     p_diabetes = priors.get('1', 0)
     p_no_diabetes = priors.get('0', 0)
 
-    # Total probability of evidence
+
     p_evidence = (p_evidence_given_diabetes * p_diabetes) + (p_evidence_given_no_diabetes * p_no_diabetes)
 
-    # Posterior probability P(Outcome=1 | evidence)
-    p_diabetes_given_evidence = (p_evidence_given_diabetes * p_diabetes) / p_evidence if p_evidence != 0 else 0
 
-    return p_diabetes_given_evidence
+    p_diabetes_given_evidence = (p_evidence_given_diabetes * p_diabetes) / p_evidence if p_evidence != 0 else 0
+    p_no_diabetes_given_evidence = (p_evidence_given_no_diabetes * p_no_diabetes) / p_evidence if p_evidence != 0 else 0
+
+    return p_diabetes_given_evidence, p_no_diabetes_given_evidence
+
+
 
 file_path = 'diabetes_dataset.csv'
 
@@ -90,12 +92,19 @@ for feature, index in feature_indices.items():
 
 def get_user_input():
     evidence = {}
+    print("Enter the following details:")
     for feature in feature_indices:
-        value = input(f"Enter the value for {feature}: ")
+        value = input(f"{feature}: ")
         evidence[feature] = value
     return evidence
 
 user_evidence = get_user_input()
 
-p_diabetes_given_evidence = predict_diabetes(priors, conditional_probs, user_evidence)
-print(f'Probability of diabetes given evidence: {p_diabetes_given_evidence:.4f}')
+p_diabetes_given_evidence, p_no_diabetes_given_evidence = predict_diabetes(priors, conditional_probs, user_evidence)
+
+predicted_class = "Diabetic" if p_diabetes_given_evidence > p_no_diabetes_given_evidence else "Not Diabetic"
+
+print(f'Probability of having diabetes: {p_diabetes_given_evidence:.4f}')
+print(f'Probability of not having diabetes: {p_no_diabetes_given_evidence:.4f}')
+print(f'Predicted class: {predicted_class}')
+

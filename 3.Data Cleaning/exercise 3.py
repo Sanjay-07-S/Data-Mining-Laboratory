@@ -15,7 +15,7 @@ def to_int(value):
     try:
         return int(value)
     except ValueError:
-        return -1 
+        return -1
 
 
 def remove_duplicates(data):
@@ -46,11 +46,11 @@ def clean_data(data):
     cleaned_data = []
     for row in data:
         if any(is_missing(value) for value in row):
-            continue 
+            continue
 
-        row[0] = to_int(row[0])  # GameID
-        row[3] = to_int(row[3])  # Year
-        row[6] = to_float(row[6])  # Global_Sales
+        row[0] = to_int(row[0])
+        row[3] = to_int(row[3])
+        row[6] = to_float(row[6])
 
         cleaned_data.append(row)
 
@@ -91,6 +91,7 @@ def write_csv_file(filename, data):
 def main():
     input_filename = 'V.G sales dataset.csv'
     output_filename = 'Cleaned dataset.csv'
+    print(f"Cleaned Data Save to {output_filename}")
 
     data = read_csv_file(input_filename)
     cleaned_data = clean_data(data)
